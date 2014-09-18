@@ -2,7 +2,7 @@
 2, 5, 7, 10, 12, 15, 17, . . ., 1 800
 */
 
-public class Ejercicio302 {
+public class Ejemplo {
 public static void main(String[] args){
     int i,j=0,bra='t';
     for(i=0;i<=797;i=i)
@@ -22,6 +22,3 @@ public static void main(String[] args){
 }
 
 }
-
-
-http://programacionparajava.blogspot.com.es/p/primeros-programas-en-java-para-novatos.html
